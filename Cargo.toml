@@ -8,3 +8,15 @@ edition = "2021"
 [[bin]]
 name = "ownership_move"
 path = "src/ownership_move/main.rs"
+
+[[bin]]
+name = "struct"
+path = "src/struct/main.rs"
+
+[[bin]]
+name = "struct_define"
+path = "src/struct_define/main.rs"
+
+[[bin]]
+name = "struct_method"
+path = "src/struct_method/main.rs"
