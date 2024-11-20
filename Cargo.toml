@@ -1,0 +1,10 @@
+[package]
+name = "my-rust-book"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "ownership_move"
+path = "src/ownership_move/main.rs"
