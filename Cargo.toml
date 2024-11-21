@@ -20,3 +20,23 @@ path = "src/struct_define/main.rs"
 [[bin]]
 name = "struct_method"
 path = "src/struct_method/main.rs"
+
+[[bin]]
+name = "enum_basic"
+path = "src/enum_basic/main.rs"
+
+[[bin]]
+name = "enum_data"
+path = "src/enum_data/main.rs"
+
+[[bin]]
+name = "result_enum"
+path = "src/result_enum/main.rs"
+
+[[bin]]
+name = "result_noreturn"
+path = "src/result_noreturn/main.rs"
+
+[[bin]]
+name = "option_enum"
+path = "src/option_enum/main.rs"
