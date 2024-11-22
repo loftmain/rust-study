@@ -40,3 +40,31 @@ path = "src/result_noreturn/main.rs"
 [[bin]]
 name = "option_enum"
 path = "src/option_enum/main.rs"
+
+[[bin]]
+name = "try_operator"
+path = "src/try_operator/main.rs"
+
+[[bin]]
+name = "question"
+path = "src/question/main.rs"
+
+[[bin]]
+name = "function_pointer"
+path = "src/function_pointer/main.rs"
+
+[[bin]]
+name = "closure"
+path = "src/closure/main.rs"
+
+[[bin]]
+name = "map"
+path = "src/map/main.rs"
+
+[[bin]]
+name = "map_option"
+path = "src/map_option/main.rs"
+
+[[bin]]
+name = "map_result"
+path = "src/map_result/main.rs"
