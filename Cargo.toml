@@ -68,3 +68,23 @@ path = "src/map_option/main.rs"
 [[bin]]
 name = "map_result"
 path = "src/map_result/main.rs"
+
+[[bin]]
+name = "map_error"
+path = "src/map_error/main.rs"
+
+[[bin]]
+name = "module"
+path = "src/module/main.rs"
+
+[[bin]]
+name = "trait"
+path = "src/trait/main.rs"
+
+[[bin]]
+name = "trait_display_debug"
+path = "src/trait_display_debug/main.rs"
+
+[[bin]]
+name = "trait_clone"
+path = "src/trait_clone/main.rs"
